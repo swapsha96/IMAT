@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "787179163107",
+    "firebase_url": "https://imat-cd5c8.firebaseio.com",
+    "project_id": "imat-cd5c8",
+    "storage_bucket": "imat-cd5c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787179163107:android:41916b4f257a2437",
+        "android_client_info": {
+          "package_name": "in.swapsha96.imat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787179163107-85nsak2k726207kc8dimuruuhlb80j1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.swapsha96.imat",
+            "certificate_hash": "038725c3ca25188241f6951185ba791b4b84c2b8"
+          }
+        },
+        {
+          "client_id": "787179163107-rptgh528pb99180mb5aqeu7c96m85vj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0TQsoelbUpvxCm5ccYp3qmaCumJf3RuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787179163107-rptgh528pb99180mb5aqeu7c96m85vj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
