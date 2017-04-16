@@ -1,0 +1,673 @@
+[
+{  "1":{
+    "Name":"Abhay Singh"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "2":{
+    "Name":"Abhimanyu Mittal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "3":{
+    "Name":"Abhishek Pandey"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "4":{
+    "Name":"Kansul Mahrifa C Abdurahiman"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "5":{
+    "Name":"Kansul Mahrifa C Abdurahiman"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "6":{
+    "Name":"Akshat Gupta"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "7":{
+    "Name":"Ankur Gangwal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "8":{
+    "Name":"Ashish Kumar Bedi"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "9":{
+    "Name":"Avanish Kumar Yadav"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "10":{
+    "Name":"Shivangi Kataria"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+  },
+  "11":{
+    "Name":"Alpna Tyagi"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Female"
+  },
+  "12":{
+    "Name":"Ankit Kumar Meena"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "13":{
+    "Name":"Ankur Kumar Singh"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "14":{
+    "Name":"Anubhav Singh"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "15":{
+    "Name":"Aswin Kumar A"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "16":{
+    "Name":"Amanshu Raikwar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "17":{
+    "Name":"Amit Kumar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "18":{
+    "Name":"Amod Kumar Choudhary"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "19":{
+    "Name":"Arpit Karwasara"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "20":{
+    "Name":"Muthiyan Neha"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "21":{
+    "Name":"Abhijeet Singh"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "22":{
+    "Name":"Abhinav Kumar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "23":{
+    "Name":"Abhishek Kumar Mishra"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "24":{
+    "Name":"Akshay Mathew"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "25":{
+    "Name":"Neha Grewal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+  },
+  "26":{
+    "Name":"Aakashdeep"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "27":{
+    "Name":"Abhishek Chaudhary"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "28":{
+    "Name":"Abhishek Kumar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "29":{
+    "Name":"Akash Kumar Kushwaha"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "30":{
+    "Name":"Anindya Gangopadhyay"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "31":{
+    "Name":"Aayush Mishra"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "32":{
+    "Name":"Abhijeet Sharma"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "33":{
+    "Name":"Abhishek"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "34":{
+    "Name":"Abhishek Poonia"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "35":{
+    "Name":"Mamta Raju Bhagia"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "36":{
+    "Name":"Aayush Sharma"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "37":{
+    "Name":"Abhishek Pal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "38":{
+    "Name":"Abhishek Sonal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "39":{
+    "Name":"Aditi Mann"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+  },
+  "40":{
+    "Name":"Akash Sharma"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "41":{
+    "Name":"Aman Choudhary"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "42":{
+    "Name":"Anand Mohan Tiwari"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "43":{
+    "Name":"Atul Yadav"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "44":{
+    "Name":"Avinash Kumar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "45":{
+    "Name":"Banwari Lal Airwal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "46":{
+    "Name":"Tulika Agarwal"
+    ,"Degree":"MS"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "47":{
+    "Name":"Priyabrat Sharma"
+    ,"Degree":"MS"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "48":{
+    "Name":"Kartik Gupta"
+    ,"Degree":"MS"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "49":{
+    "Name":"Puneet Kumar"
+    ,"Degree":"MS"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "50":{
+    "Name":"Srishti Gautam"
+    ,"Degree":"MS"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "51":{
+    "Name":"Abhay"
+    ,"Degree":"MS"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "52":{
+    "Name":"Bodhyan Nandi"
+    ,"Degree":"MS"
+    ,"Year":"2016"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "53":{
+    "Name":"Sharey Deep Guleria"
+    ,"Degree":"MS"
+    ,"Year":"2016"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "54":{
+    "Name":"Reena Singh"
+    ,"Degree":"PhD"
+    ,"Year":"2010"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "55":{
+    "Name":"Lakshman S.A."
+    ,"Degree":"PhD"
+    ,"Year":"2011"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "56":{
+    "Name":"Rajeev Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2011"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "57":{
+    "Name":"Gurinderbir Singh Grewal"
+    ,"Degree":"PhD"
+    ,"Year":"2011"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "58":{
+    "Name":"Thirumurgan C"
+    ,"Degree":"PhD"
+    ,"Year":"2011"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "59":{
+    "Name":"Sohan Lal"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "60":{
+    "Name":"Pravindra Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "61":{
+    "Name":"Pulkit Sharma"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "62":{
+    "Name":"Yashwant Kashyap"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "63":{
+    "Name":"Himmat Singh Khushwaha"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "64":{
+    "Name":"Saurabh Singh"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "65":{
+    "Name":"Sachin Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "66":{
+    "Name":"Rajan Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "67":{
+    "Name":"Vinayak Abrol"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "68":{
+    "Name":"Vibha Gupta"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+  },
+  "69":{
+    "Name":"Ajay"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "70":{
+    "Name":"Robin Khosla"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "71":{
+    "Name":"Srimanta Mandal"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "72":{
+    "Name":"Medha Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+  },
+  "73":{
+    "Name":"Sanjay Rathee"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "74":{
+    "Name":"Mahesh Soni"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "75":{
+    "Name":"Shaifu Gupta"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "76":{
+    "Name":"Anshul Thakur"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "77":{
+    "Name":"Archana Sharma"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "78":{
+    "Name":"Davinder Singh"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "79":{
+    "Name":"Sandeep Kumar Shukla"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "80":{
+    "Name":"Nidhi Baranwal"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Female"
+  },
+  "81":{
+    "Name":"Shivani"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "82":{
+    "Name":"Krishan Sharma"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "83":{
+    "Name":"Md Sultan Alam"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "84":{
+    "Name":"Jyoti Nigam"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+  },
+  "85":{
+    "Name":"Palvi Agarwal"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "86":{
+    "Name":"Ashish Shirsh Joshi"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+  },
+  "87":{
+    "Name":"Indu"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+  },
+  "88":{
+    "Name":"Ankit Gupta"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "89":{
+    "Name":"Aniruddh Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "90":{
+    "Name":"Rayees Ahmad Dar"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+  },
+  "91":{
+    "Name":"Prabhjot Kaur"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+  },
+  "92":{
+    "Name":"Preeti Gulia"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Female"
+  },
+  "93":{
+    "Name":"Subrata Mondal"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "94":{
+    "Name":"Gaurav Tripathi"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "95":{
+    "Name":"Tushar Kant Swain"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+  },
+  "96":{
+    "Name":"Manju Bisht"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Female"
+  }}]

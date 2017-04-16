@@ -1,0 +1,961 @@
+[
+{  "1":{
+    "Name":"Abhay Singh"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Delhi"
+    ,"Phone Number":"9816927055"
+  },
+  "2":{
+    "Name":"Abhimanyu Mittal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Delhi"
+    ,"Phone Number":"9816929909"
+  },
+  "3":{
+    "Name":"Abhishek Pandey"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9816924012"
+  },
+  "4":{
+    "Name":"Kansul Mahrifa C Abdurahiman"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal Annexe"
+    ,"State":"Kerela"
+    ,"Phone Number":"9816923813"
+  },
+  "5":{
+    "Name":"Kansul Mahrifa C Abdurahiman"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal Annexe"
+    ,"State":"Kerela"
+    ,"Phone Number":"9816923813"
+  },
+  "6":{
+    "Name":"Akshat Gupta"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Delhi"
+    ,"Phone Number":"9873179684"
+  },
+  "7":{
+    "Name":"Ankur Gangwal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Punjab"
+    ,"Phone Number":"9810535517"
+  },
+  "8":{
+    "Name":"Ashish Kumar Bedi"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Punjab"
+    ,"Phone Number":"9882323043"
+  },
+  "9":{
+    "Name":"Avanish Kumar Yadav"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9415308731"
+  },
+  "10":{
+    "Name":"Shivangi Kataria"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal Annexe"
+    ,"State":"Andhra Pradesh"
+    ,"Phone Number":"9816936018"
+  },
+  "11":{
+    "Name":"Alpna Tyagi"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal Annexe"
+    ,"State":"Andhra Pradesh"
+    ,"Phone Number":"7831940045"
+  },
+  "12":{
+    "Name":"Ankit Kumar Meena"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Andhra Pradesh"
+    ,"Phone Number":"9816923592"
+  },
+  "13":{
+    "Name":"Ankur Kumar Singh"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Andhra Pradesh"
+    ,"Phone Number":"7831940099"
+  },
+  "14":{
+    "Name":"Anubhav Singh"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Andhra Pradesh"
+    ,"Phone Number":"9816936017"
+  },
+  "15":{
+    "Name":"Aswin Kumar A"
+    ,"Degree":"B.Tech"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Andhra Pradesh"
+    ,"Phone Number":"9816923863"
+  },
+  "16":{
+    "Name":"Amanshu Raikwar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar G3"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9736849670"
+  },
+  "17":{
+    "Name":"Amit Kumar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9805100967"
+  },
+  "18":{
+    "Name":"Amod Kumar Choudhary"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Nepal"
+    ,"Phone Number":"8894019288"
+  },
+  "19":{
+    "Name":"Arpit Karwasara"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Parashar G2"
+    ,"State":"Delhi"
+    ,"Phone Number":"9805097312"
+  },
+  "20":{
+    "Name":"Muthiyan Neha"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal B"
+    ,"State":"Maharastra"
+    ,"Phone Number":"8894017317"
+  },
+  "21":{
+    "Name":"Abhijeet Singh"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"8894019347"
+  },
+  "22":{
+    "Name":"Abhinav Kumar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Parashar G2"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"7277438207"
+  },
+  "23":{
+    "Name":"Abhishek Kumar Mishra"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Parashar G2"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"9805093373"
+  },
+  "24":{
+    "Name":"Akshay Mathew"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Parashar G2"
+    ,"State":"Delhi"
+    ,"Phone Number":"9805151478"
+  },
+  "25":{
+    "Name":"Neha Grewal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal B"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"8894475651"
+  },
+  "26":{
+    "Name":"Aakashdeep"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"9805100723"
+  },
+  "27":{
+    "Name":"Abhishek Chaudhary"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Parashar G2"
+    ,"State":"Delhi"
+    ,"Phone Number":"8628847532"
+  },
+  "28":{
+    "Name":"Abhishek Kumar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Parashar G2"
+    ,"State":"Delhi"
+    ,"Phone Number":"9805101082"
+  },
+  "29":{
+    "Name":"Akash Kumar Kushwaha"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Parashar G2"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9805101089"
+  },
+  "30":{
+    "Name":"Anindya Gangopadhyay"
+    ,"Degree":"B.Tech"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Parashar G2"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"8894055190"
+  },
+  "31":{
+    "Name":"Aayush Mishra"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar G4"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"9805674131"
+  },
+  "32":{
+    "Name":"Abhijeet Sharma"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar G4"
+    ,"State":"Madhya Pradesh"
+    ,"Phone Number":"8629015433"
+  },
+  "33":{
+    "Name":"Abhishek"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar G4"
+    ,"State":"Madhya Pradesh"
+    ,"Phone Number":"8629027911"
+  },
+  "34":{
+    "Name":"Abhishek Poonia"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Prashar G2"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9950083236"
+  },
+  "35":{
+    "Name":"Mamta Raju Bhagia"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal Annexe"
+    ,"State":"Maharastra"
+    ,"Phone Number":"9920100776"
+  },
+  "36":{
+    "Name":"Aayush Sharma"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Madhya Pradesh"
+    ,"Phone Number":"8629015391"
+  },
+  "37":{
+    "Name":"Abhishek Pal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar G3"
+    ,"State":"Madhya Pradesh"
+    ,"Phone Number":"9454764252"
+  },
+  "38":{
+    "Name":"Abhishek Sonal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar G3"
+    ,"State":"Delhi"
+    ,"Phone Number":"9451960277"
+  },
+  "39":{
+    "Name":"Aditi Mann"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal Annexe"
+    ,"State":"Delhi"
+    ,"Phone Number":"9868343380"
+  },
+  "40":{
+    "Name":"Akash Sharma"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Haryana"
+    ,"Phone Number":"8142084801"
+  },
+  "41":{
+    "Name":"Aman Choudhary"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Prashar G2"
+    ,"State":"Haryana"
+    ,"Phone Number":"7231055348"
+  },
+  "42":{
+    "Name":"Anand Mohan Tiwari"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar G4"
+    ,"State":"Bihar"
+    ,"Phone Number":"9736259326"
+  },
+  "43":{
+    "Name":"Atul Yadav"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Prashar G2"
+    ,"State":"Bihar"
+    ,"Phone Number":"8629015414"
+  },
+  "44":{
+    "Name":"Avinash Kumar"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar G3"
+    ,"State":"Bihar"
+    ,"Phone Number":"8051906280"
+  },
+  "45":{
+    "Name":"Banwari Lal Airwal"
+    ,"Degree":"B.Tech"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"8351905298"
+  },
+  "46":{
+    "Name":"Tulika Agarwal"
+    ,"Degree":"MS"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal Annexe"
+    ,"State":"Delhi"
+    ,"Phone Number":"9816923598"
+  },
+  "47":{
+    "Name":"Priyabrat Sharma"
+    ,"Degree":"MS"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Bengal"
+    ,"Phone Number":"9459302564"
+  },
+  "48":{
+    "Name":"Kartik Gupta"
+    ,"Degree":"MS"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Delhi"
+    ,"Phone Number":"9582382543"
+  },
+  "49":{
+    "Name":"Puneet Kumar"
+    ,"Degree":"MS"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"9882768208"
+  },
+  "50":{
+    "Name":"Srishti Gautam"
+    ,"Degree":"MS"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal B3"
+    ,"State":"Haryana"
+    ,"Phone Number":"9560011995"
+  },
+  "51":{
+    "Name":"Abhay"
+    ,"Degree":"MS"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9882086080"
+  },
+  "52":{
+    "Name":"Bodhyan Nandi"
+    ,"Degree":"MS"
+    ,"Year":"2016"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Beas Kund"
+    ,"State":"Bengal"
+    ,"Phone Number":"9176064633"
+  },
+  "53":{
+    "Name":"Sharey Deep Guleria"
+    ,"Degree":"MS"
+    ,"Year":"2016"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Beas Kund"
+    ,"State":"Madhya Pradesh"
+    ,"Phone Number":"9418161145"
+  },
+  "54":{
+    "Name":"Reena Singh"
+    ,"Degree":"PhD"
+    ,"Year":"2010"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Beas Kund"
+    ,"State":"Karnataka"
+    ,"Phone Number":"9736548855"
+  },
+  "55":{
+    "Name":"Lakshman S.A."
+    ,"Degree":"PhD"
+    ,"Year":"2011"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Andhra Pradesh"
+    ,"Phone Number":"9159192810"
+  },
+  "56":{
+    "Name":"Rajeev Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2011"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Delhi"
+    ,"Phone Number":"8350931585"
+  },
+  "57":{
+    "Name":"Gurinderbir Singh Grewal"
+    ,"Degree":"PhD"
+    ,"Year":"2011"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Haryana"
+    ,"Phone Number":"9817412237"
+  },
+  "58":{
+    "Name":"Thirumurgan C"
+    ,"Degree":"PhD"
+    ,"Year":"2011"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Andhra Pradesh"
+    ,"Phone Number":"9736759139"
+  },
+  "59":{
+    "Name":"Sohan Lal"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"94182-79015"
+  },
+  "60":{
+    "Name":"Pravindra Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Uttrakhand"
+    ,"Phone Number":"9805791099"
+  },
+  "61":{
+    "Name":"Pulkit Sharma"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"8091415565"
+  },
+  "62":{
+    "Name":"Yashwant Kashyap"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"94139-67592"
+  },
+  "63":{
+    "Name":"Himmat Singh Khushwaha"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Bihar"
+    ,"Phone Number":"8627039223"
+  },
+  "64":{
+    "Name":"Saurabh Singh"
+    ,"Degree":"PhD"
+    ,"Year":"2012"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B6"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"9459405080"
+  },
+  "65":{
+    "Name":"Sachin Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Delhi"
+    ,"Phone Number":"9816923792"
+  },
+  "66":{
+    "Name":"Rajan Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar G4"
+    ,"State":"Uttrakhand"
+    ,"Phone Number":"8894990325"
+  },
+  "67":{
+    "Name":"Vinayak Abrol"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Delhi"
+    ,"Phone Number":"9646315212"
+  },
+  "68":{
+    "Name":"Vibha Gupta"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal"
+    ,"State":"Punjab"
+    ,"Phone Number":"9816923848"
+  },
+  "69":{
+    "Name":"Ajay"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"9816923525"
+  },
+  "70":{
+    "Name":"Robin Khosla"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Dashir Hostel"
+    ,"State":"Maharastra"
+    ,"Phone Number":"9816109945"
+  },
+  "71":{
+    "Name":"Srimanta Mandal"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Suvalsar B5"
+    ,"State":"Bengal"
+    ,"Phone Number":"8988186825"
+  },
+  "72":{
+    "Name":"Medha Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandra Taal"
+    ,"State":"Delhi"
+    ,"Phone Number":"9805888520"
+  },
+  "73":{
+    "Name":"Sanjay Rathee"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Haryana"
+    ,"Phone Number":"9780616560"
+  },
+  "74":{
+    "Name":"Mahesh Soni"
+    ,"Degree":"PhD"
+    ,"Year":"2013"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Haryana"
+    ,"Phone Number":"9816941491"
+  },
+  "75":{
+    "Name":"Shaifu Gupta"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandertaal Annexe"
+    ,"State":"Delhi"
+    ,"Phone Number":"9464682417"
+  },
+  "76":{
+    "Name":"Anshul Thakur"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Himachal Pradesh"
+    ,"Phone Number":"9882227669"
+  },
+  "77":{
+    "Name":"Archana Sharma"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Renuka"
+    ,"State":"Himachal Pradesh"
+    ,"Phone Number":"8285617424"
+  },
+  "78":{
+    "Name":"Davinder Singh"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Dashir"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9988060370"
+  },
+  "79":{
+    "Name":"Sandeep Kumar Shukla"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"98052-05950"
+  },
+  "80":{
+    "Name":"Nidhi Baranwal"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandertaal Annexe"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"98053-04498"
+  },
+  "81":{
+    "Name":"Shivani"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Renuka"
+    ,"State":"Punjab"
+    ,"Phone Number":"8679411793"
+  },
+  "82":{
+    "Name":"Krishan Sharma"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Rajasthan"
+    ,"Phone Number":"7833818772"
+  },
+  "83":{
+    "Name":"Md Sultan Alam"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Maharastra"
+    ,"Phone Number":"9736724746"
+  },
+  "84":{
+    "Name":"Jyoti Nigam"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Bengal"
+    ,"Phone Number":"8894607735"
+  },
+  "85":{
+    "Name":"Palvi Agarwal"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Chandertaal B4"
+    ,"State":"Delhi"
+    ,"Phone Number":"96460-31796"
+  },
+  "86":{
+    "Name":"Ashish Shirsh Joshi"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"EE"
+    ,"Gender":"Male"
+    ,"Hostel":"Dashir Hostel"
+    ,"State":"Himachal Pradesh"
+    ,"Phone Number":"9736759123"
+  },
+  "87":{
+    "Name":"Indu"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"CSE"
+    ,"Gender":"Female"
+    ,"Hostel":"Renuka"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9466929062"
+  },
+  "88":{
+    "Name":"Ankit Gupta"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9411811120"
+  },
+  "89":{
+    "Name":"Aniruddh Kumar"
+    ,"Degree":"PhD"
+    ,"Year":"2014"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Staying Outside"
+    ,"State":"Himachal Pradesh"
+    ,"Phone Number":"8894093580"
+  },
+  "90":{
+    "Name":"Rayees Ahmad Dar"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"CSE"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Jammu"
+    ,"Phone Number":"9858786489"
+  },
+  "91":{
+    "Name":"Prabhjot Kaur"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"EE"
+    ,"Gender":"Female"
+    ,"Hostel":"Prashar B3"
+    ,"State":"Punjab"
+    ,"Phone Number":"9418312656"
+  },
+  "92":{
+    "Name":"Preeti Gulia"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Female"
+    ,"Hostel":"Prashar B3"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"9540176819"
+  },
+  "93":{
+    "Name":"Subrata Mondal"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Bengal"
+    ,"Phone Number":"8351895977"
+  },
+  "94":{
+    "Name":"Gaurav Tripathi"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Uttrakhand"
+    ,"Phone Number":"9736202630"
+  },
+  "95":{
+    "Name":"Tushar Kant Swain"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Male"
+    ,"Hostel":"Nako B7"
+    ,"State":"Uttar Pradesh"
+    ,"Phone Number":"8679145436"
+  },
+  "96":{
+    "Name":"Manju Bisht"
+    ,"Degree":"PhD"
+    ,"Year":"2015"
+    ,"Branch":"ME"
+    ,"Gender":"Female"
+    ,"Hostel":"Suvalsar B3"
+    ,"State":"Uttrakhand"
+    ,"Phone Number":"8894636726"
+  }}]

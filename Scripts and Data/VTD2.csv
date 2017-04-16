@@ -1,0 +1,97 @@
+Uid,Date,Purpose,Destination,Time_In,Time_Out,Degree,Year,Branch,Gender,Hostel,State,Phone Number,Number Saved
+2,16-04-2017,Religious,Indira Market,5:30,8:30,B.Tech,2013,CSE,Male,Nako B6,Delhi,9816929909,1
+4,16-04-2017,Medical,Gandhi Chowk,6:30,8:30,B.Tech,2013,CSE,Female,Chandra Taal Annexe,Kerela,9816923813,0
+7,16-04-2017,Shopping,Mandi Campus,12:00,5:30,B.Tech,2013,EE,Male,Nako B6,Punjab,9810535517,1
+25,16-04-2017,Medical,Mandav Hospital,7:30,8:30,B.Tech,2014,EE,Female,Chandra Taal B,Rajasthan,8894475651,0
+29,16-04-2017,Eating,Mandav Hospital,12:00,6:30,B.Tech,2014,ME,Male,Parashar G2,Uttar Pradesh,9805101089,1
+39,16-04-2017,Religious,Victoria Bridge,12:00,7:30,B.Tech,2015,EE,Female,Chandra Taal Annexe,Delhi,9868343380,0
+47,16-04-2017,Shopping,Indira Market,12:00,8:30,MS,2013,ME,Male,Nako B7,Bengal,9459302564,1
+48,16-04-2017,Shopping,Victoria Bridge,4:00,5:30,MS,2014,CSE,Male,Nako B6,Delhi,9582382543,0
+53,16-04-2017,Eating,Raman Bakery,2:00,5:30,MS,2016,ME,Male,Beas Kund,Madhya Pradesh,9418161145,1
+56,16-04-2017,Eating,Victoria Bridge,2:00,5:30,PhD,2011,CSE,Male,Staying Outside,Delhi,8350931585,0
+66,16-04-2017,Medical,Zonal Hospital,6:30,7:30,PhD,2013,ME,Male,Suvalsar G4,Uttrakhand,8894990325,1
+69,16-04-2017,Medical,Zonal Hospital,12:00,8:30,PhD,2013,CSE,Male,Nako B7,Rajasthan,9816923525,0
+73,16-04-2017,Eating,Victoria Bridge,6:30,8:30,PhD,2013,CSE,Male,Nako B7,Haryana,9780616560,1
+75,16-04-2017,Shopping,Mandav Hospital,6:30,8:30,PhD,2014,CSE,Female,Chandertaal Annexe,Delhi,9464682417,0
+76,16-04-2017,Medical,Admin Block,6:30,7:30,PhD,2014,EE,Male,Staying Outside,Himachal Pradesh,9882227669,1
+78,16-04-2017,Eating,Gandhi Chowk,6:30,7:30,PhD,2014,ME,Male,Dashir,Uttar Pradesh,9988060370,0
+79,16-04-2017,Medical,Victoria Bridge,7:30,8:30,PhD,2014,ME,Male,Staying Outside,Uttar Pradesh,98052-05950,1
+85,16-04-2017,Eating,Raman Bakery,6:30,7:30,PhD,2014,CSE,Female,Chandertaal B4,Delhi,96460-31796,0
+90,16-04-2017,Shopping,Raman Bakery,7:30,8:30,PhD,2015,CSE,Male,Nako B7,Jammu,9858786489,1
+95,16-04-2017,Shopping,Gandhi Chowk,7:30,8:30,PhD,2015,ME,Male,Nako B7,Uttar Pradesh,8679145436,0
+6,17-04-2017,Shopping,Zonal Hospital,6:30,7:30,B.Tech,2013,EE,Male,Nako B7,Delhi,9873179684,1
+9,17-04-2017,Eating,Raman Bakery,7:30,8:30,B.Tech,2013,EE,Male,Suvalsar B5,Uttar Pradesh,9415308731,0
+13,17-04-2017,Religious,Mandav Hospital,6:30,7:30,B.Tech,2013,ME,Male,Suvalsar B5,Andhra Pradesh,7831940099,1
+14,17-04-2017,Eating,Mandav Hospital,5:30,8:30,B.Tech,2013,ME,Male,Nako B6,Andhra Pradesh,9816936017,0
+18,17-04-2017,Religious,Gandhi Chowk,5:30,8:30,B.Tech,2014,CSE,Male,Nako B7,Nepal,8894019288,1
+20,17-04-2017,Medical,Indira Market,12:00,2:00,B.Tech,2014,CSE,Female,Chandra Taal B,Maharastra,8894017317,0
+21,17-04-2017,Shopping,Victoria Bridge,2:00,5:30,B.Tech,2014,EE,Male,Suvalsar B5,Uttar Pradesh,8894019347,1
+22,17-04-2017,Shopping,Indira Market,4:00,5:30,B.Tech,2014,EE,Male,Parashar G2,Rajasthan,7277438207,0
+24,17-04-2017,Medical,Indira Market,12:00,8:30,B.Tech,2014,EE,Male,Parashar G2,Delhi,9805151478,1
+27,17-04-2017,Religious,Zonal Hospital,12:00,5:30,B.Tech,2014,ME,Male,Parashar G2,Delhi,8628847532,0
+28,17-04-2017,Medical,Mandi Campus,12:00,4:00,B.Tech,2014,ME,Male,Parashar G2,Delhi,9805101082,1
+31,17-04-2017,Shopping,Mandav Hospital,6:30,8:30,B.Tech,2015,CSE,Male,Suvalsar G4,Rajasthan,9805674131,0
+33,17-04-2017,Medical,Admin Block,4:00,5:30,B.Tech,2015,CSE,Male,Suvalsar G4,Madhya Pradesh,8629027911,1
+36,17-04-2017,Medical,Admin Block,7:30,8:30,B.Tech,2015,EE,Male,Nako B6,Madhya Pradesh,8629015391,0
+45,17-04-2017,Shopping,Admin Block,7:30,8:30,B.Tech,2015,ME,Male,Nako B6,Uttar Pradesh,8351905298,1
+49,17-04-2017,Religious,Gandhi Chowk,5:30,6:30,MS,2014,ME,Male,Nako B7,Rajasthan,9882768208,0
+52,17-04-2017,Medical,Indira Market,5:30,7:30,MS,2016,CSE,Male,Beas Kund,Bengal,9176064633,1
+54,17-04-2017,Religious,Mandav Hospital,5:30,8:30,PhD,2010,CSE,Female,Beas Kund,Karnataka,9736548855,0
+57,17-04-2017,Shopping,Gandhi Chowk,5:30,7:30,PhD,2011,CSE,Male,Staying Outside,Haryana,9817412237,1
+58,17-04-2017,Medical,Victoria Bridge,4:00,6:30,PhD,2011,CSE,Male,Nako B6,Andhra Pradesh,9736759139,0
+59,17-04-2017,Eating,Zonal Hospital,4:00,5:30,PhD,2012,ME,Male,Nako B6,Uttar Pradesh,94182-79015,1
+68,17-04-2017,Eating,Mandav Hospital,5:30,7:30,PhD,2013,EE,Female,Chandra Taal,Punjab,9816923848,0
+72,17-04-2017,Religious,Zonal Hospital,12:00,4:00,PhD,2013,EE,Female,Chandra Taal,Delhi,9805888520,1
+81,17-04-2017,Religious,Mandav Hospital,12:00,2:00,PhD,2014,CSE,Female,Renuka,Punjab,8679411793,0
+82,17-04-2017,Shopping,Admin Block,6:30,8:30,PhD,2014,EE,Male,Nako B7,Rajasthan,7833818772,1
+83,17-04-2017,Medical,Raman Bakery,12:00,4:00,PhD,2014,CSE,Male,Nako B7,Maharastra,9736724746,0
+93,17-04-2017,Medical,Mandav Hospital,2:00,8:30,PhD,2015,ME,Male,Nako B7,Bengal,8351895977,1
+5,18-04-2017,Eating,Admin Block,6:30,8:30,B.Tech,2013,CSE,Female,Chandra Taal Annexe,Kerela,9816923813,0
+11,18-04-2017,Religious,Victoria Bridge,12:00,6:30,B.Tech,2013,ME,Female,Chandra Taal Annexe,Andhra Pradesh,7831940045,1
+16,18-04-2017,Shopping,Mandi Campus,4:00,5:30,B.Tech,2014,CSE,Male,Suvalsar G3,Uttar Pradesh,9736849670,0
+19,18-04-2017,Religious,Raman Bakery,7:30,8:30,B.Tech,2014,CSE,Male,Parashar G2,Delhi,9805097312,1
+30,18-04-2017,Shopping,Mandi Campus,7:30,8:30,B.Tech,2014,ME,Male,Parashar G2,Uttar Pradesh,8894055190,0
+64,18-04-2017,Shopping,Mandav Hospital,7:30,8:30,PhD,2012,ME,Male,Nako B6,Rajasthan,9459405080,1
+65,18-04-2017,Religious,Zonal Hospital,4:00,7:30,PhD,2013,ME,Male,Staying Outside,Delhi,9816923792,0
+74,18-04-2017,Shopping,Raman Bakery,5:30,8:30,PhD,2013,CSE,Male,Staying Outside,Haryana,9816941491,1
+84,18-04-2017,Medical,Gandhi Chowk,6:30,8:30,PhD,2014,EE,Female,Staying Outside,Bengal,8894607735,0
+86,18-04-2017,Medical,Mandav Hospital,4:00,5:30,PhD,2014,EE,Male,Dashir Hostel,Himachal Pradesh,9736759123,1
+88,18-04-2017,Medical,Mandi Campus,2:00,4:00,PhD,2014,ME,Male,Nako B7,Uttar Pradesh,9411811120,0
+1,19-04-2017,Medical,Zonal Hospital,2:00,6:30,B.Tech,2013,CSE,Male,Suvalsar B5,Delhi,9816927055,1
+12,19-04-2017,Medical,Indira Market,4:00,8:30,B.Tech,2013,ME,Male,Nako B7,Andhra Pradesh,9816923592,0
+17,19-04-2017,Medical,Admin Block,7:30,8:30,B.Tech,2014,CSE,Male,Suvalsar B5,Uttar Pradesh,9805100967,1
+26,19-04-2017,Eating,Indira Market,5:30,7:30,B.Tech,2014,ME,Male,Suvalsar B5,Rajasthan,9805100723,0
+32,19-04-2017,Religious,Victoria Bridge,4:00,7:30,B.Tech,2015,CSE,Male,Suvalsar G4,Madhya Pradesh,8629015433,1
+34,19-04-2017,Eating,Indira Market,7:30,8:30,B.Tech,2015,CSE,Male,Prashar G2,Uttar Pradesh,9950083236,0
+35,19-04-2017,Medical,Mandav Hospital,5:30,7:30,B.Tech,2015,CSE,Female,Chandra Taal Annexe,Maharastra,9920100776,1
+38,19-04-2017,Shopping,Zonal Hospital,4:00,7:30,B.Tech,2015,EE,Male,Suvalsar G3,Delhi,9451960277,0
+40,19-04-2017,Eating,Mandi Campus,2:00,4:00,B.Tech,2015,EE,Male,Nako B6,Haryana,8142084801,1
+44,19-04-2017,Shopping,Mandav Hospital,4:00,8:30,B.Tech,2015,ME,Male,Suvalsar G3,Bihar,8051906280,0
+50,19-04-2017,Eating,Admin Block,7:30,8:30,MS,2015,CSE,Female,Chandra Taal B3,Haryana,9560011995,1
+51,19-04-2017,Shopping,Raman Bakery,5:30,7:30,MS,2015,ME,Male,Nako B7,Uttar Pradesh,9882086080,0
+61,19-04-2017,Shopping,Admin Block,2:00,8:30,PhD,2012,EE,Male,Staying Outside,Rajasthan,8091415565,1
+63,19-04-2017,Eating,Victoria Bridge,12:00,5:30,PhD,2012,ME,Male,Staying Outside,Bihar,8627039223,0
+67,19-04-2017,Eating,Victoria Bridge,2:00,4:00,PhD,2013,CSE,Male,Staying Outside,Delhi,9646315212,1
+70,19-04-2017,Eating,Victoria Bridge,12:00,5:30,PhD,2013,EE,Male,Dashir Hostel,Maharastra,9816109945,0
+71,19-04-2017,Shopping,Zonal Hospital,12:00,8:30,PhD,2013,CSE,Male,Suvalsar B5,Bengal,8988186825,1
+91,19-04-2017,Religious,Admin Block,6:30,8:30,PhD,2015,EE,Female,Prashar B3,Punjab,9418312656,0
+92,19-04-2017,Religious,Raman Bakery,4:00,8:30,PhD,2015,ME,Female,Prashar B3,Uttar Pradesh,9540176819,1
+3,20-04-2017,Religious,Zonal Hospital,5:30,6:30,B.Tech,2013,CSE,Male,Suvalsar B5,Uttar Pradesh,9816924012,0
+8,20-04-2017,Eating,Raman Bakery,7:30,8:30,B.Tech,2013,EE,Male,Suvalsar B5,Punjab,9882323043,1
+10,20-04-2017,Medical,Admin Block,2:00,7:30,B.Tech,2013,EE,Female,Chandra Taal Annexe,Andhra Pradesh,9816936018,0
+15,20-04-2017,Shopping,Zonal Hospital,7:30,8:30,B.Tech,2013,ME,Male,Nako B7,Andhra Pradesh,9816923863,1
+23,20-04-2017,Religious,Victoria Bridge,6:30,8:30,B.Tech,2014,EE,Male,Parashar G2,Rajasthan,9805093373,0
+37,20-04-2017,Medical,Indira Market,6:30,7:30,B.Tech,2015,EE,Male,Suvalsar G3,Madhya Pradesh,9454764252,1
+41,20-04-2017,Medical,Raman Bakery,5:30,7:30,B.Tech,2015,ME,Male,Prashar G2,Haryana,7231055348,0
+42,20-04-2017,Eating,Victoria Bridge,12:00,7:30,B.Tech,2015,ME,Male,Suvalsar G4,Bihar,9736259326,1
+43,20-04-2017,Religious,Raman Bakery,6:30,7:30,B.Tech,2015,ME,Male,Prashar G2,Bihar,8629015414,0
+46,20-04-2017,Eating,Indira Market,7:30,8:30,MS,2013,CSE,Female,Chandra Taal Annexe,Delhi,9816923598,1
+55,20-04-2017,Religious,Victoria Bridge,5:30,8:30,PhD,2011,CSE,Male,Staying Outside,Andhra Pradesh,9159192810,0
+60,20-04-2017,Eating,Mandi Campus,6:30,8:30,PhD,2012,CSE,Male,Suvalsar B5,Uttrakhand,9805791099,1
+62,20-04-2017,Shopping,Victoria Bridge,5:30,8:30,PhD,2012,ME,Male,Staying Outside,Uttar Pradesh,94139-67592,0
+77,20-04-2017,Shopping,Raman Bakery,5:30,8:30,PhD,2014,CSE,Female,Renuka,Himachal Pradesh,8285617424,1
+80,20-04-2017,Shopping,Victoria Bridge,4:00,8:30,PhD,2014,ME,Female,Chandertaal Annexe,Rajasthan,98053-04498,0
+87,20-04-2017,Eating,Mandi Campus,5:30,6:30,PhD,2014,CSE,Female,Renuka,Uttar Pradesh,9466929062,1
+89,20-04-2017,Religious,Admin Block,4:00,5:30,PhD,2014,ME,Male,Staying Outside,Himachal Pradesh,8894093580,0
+94,20-04-2017,Eating,Victoria Bridge,5:30,7:30,PhD,2015,ME,Male,Nako B7,Uttrakhand,9736202630,1
+96,20-04-2017,Shopping,Mandav Hospital,2:00,6:30,PhD,2015,ME,Female,Suvalsar B3,Uttrakhand,8894636726,0
